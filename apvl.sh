@@ -1,7 +1,7 @@
 #!/bin/bash
 # APVL(Automatic Python Version Linker) is a simple script that automatically links different versions of python.
-# Copyright (C) 2024 Hyogeun Park (hyotaime [at] hyotaime.com)
-# Last revised February 5, 2024
+# Copyright (C) 2025 Hyogeun Park (hyotaime [at] hyotaime.com)
+# Last revised February 5, 2025
 #
 # This program is free software: you can redistribute it and/or modify it under
 # the terms of the GNU General Public License as published by the Free Software
